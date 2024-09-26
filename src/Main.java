@@ -36,6 +36,7 @@ public class Main
             trash = console.nextLine();
             System.out.println("you entered " + trash + "not a numebr!");
             System.out.println("run the program again with correct input");
+
         }
     }
 }
